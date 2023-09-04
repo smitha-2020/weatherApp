@@ -4,8 +4,8 @@ Simple One page Application which shows the Current weather and the forecast bas
 - Backend developed in Nodejs and Koa
 - Frontend developed in React,react-bootstrap
 - Solution is containerized 
-[![N|Solid](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherApp.png)](https://github.com/smitha-2020)
-[![N|Solid](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherAppfront.png)](https://github.com/smitha-2020)
+[![N|Solid](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherApp.png)]([https://github.com/smitha-2020](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherApp.png))
+[![N|Solid](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherAppfront.png)](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherAppfront.png)
 
 
 # Steps to replicate(Installation):
