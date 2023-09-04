@@ -25,7 +25,6 @@ npm install
 - create the .env file in the frontendapp folder with credentials
 ```sh
 REACT_APP_PORT=3000
-REACT_APP_FRONT_URL=http://localhost:9000
 REACT_APP_OPEN_WEATHER_ICON_URL=https://openweathermap.org/img/wn/
 ```
 - create a .env file in the backend folder with credentials(secret is the apikey provided by openweathermap api)
