@@ -65,8 +65,6 @@ version: '3.3'
 services:
   frontend:
     image: <accountId>.dkr.ecr.eu-north-1.amazonaws.com/frontend-repo:latest
-    environment:
-      - PUBLIC_IP=$public_ip
     ports:
       - 3000:3000
   backend:
