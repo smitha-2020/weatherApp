@@ -56,7 +56,24 @@ PORT=9000
 - Access the React frontpage using http://localhost:3000/
   
 Solution is also deployed in AWS:
-http://13.51.107.134:3000/
+http://13.51.108.2:3000/
+
+- docker-compose file with the images from ECR.
+
+```sh
+version: '3.3'
+services:
+  frontend:
+    image: <accountId>.dkr.ecr.eu-north-1.amazonaws.com/frontend-repo:latest
+    environment:
+      - PUBLIC_IP=$public_ip
+    ports:
+      - 3000:3000
+  backend:
+    image: <accountId>.dkr.ecr.eu-north-1.amazonaws.com/backend-repo:latest
+    ports:
+      - 9000:9000
+```
  
 # Future Improvements:
 - Including test cases for both backend and frontend
