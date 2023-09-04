@@ -11,7 +11,11 @@ Simple One page Application which shows the Current weather and the forecast bas
 # Steps to replicate(Installation):
 steps to run the code locally without the docker installed:
 - clone the Repository
-- Install the dependencies 
+- Install the dependencies by changing to backend.
+```sh
+npm install
+```
+- Install the dependencies by changing to frontendapp.
 ```sh
 npm install
 ```
