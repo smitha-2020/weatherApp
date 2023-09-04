@@ -5,7 +5,7 @@ Simple One page Application which shows the Current weather and the forecast bas
 - Frontend developed in React,react-bootstrap
 - Solution is containerized
 ✨ ✨
-![alt text](https://github.com/smitha-2020/weatherApp/weatherApp.png)
+![alt text](https://github.com/smitha-2020/weatherApp/blob/main/weatherApp.png)
 ![alt text](https://github.com/smitha-2020/weatherApp/weatherAppfront.png)
 
 - Deployed in AWS EC2 and ECR.
