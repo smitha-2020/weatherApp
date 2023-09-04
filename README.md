@@ -47,9 +47,11 @@ PORT=9000
 - cd weatherapp
 - docker-compose up -d
 - Access the React frontpage using http://localhost:3000/
+  
+Solution is also deployed in AWS:
+http://13.51.107.134:3000/
  
 # Future Improvements:
 - Including test cases for both backend and frontend
 
-Solution is also deployed in AWS:
-http://13.51.107.134:3000/
+
