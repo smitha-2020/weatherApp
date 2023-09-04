@@ -6,6 +6,7 @@ Simple One page Application which shows the Current weather and the forecast bas
 - Solution is containerized 
 [![N|Solid](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherApp.png)]([https://github.com/smitha-2020](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherApp.png))
 [![N|Solid](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherAppfront.png)](https://github.com/smitha-2020/weatherApp/tree/main/Images/weatherAppfront.png)
+- Deployed in AWS EC2 and ECR for storing the images.
 
 
 # Steps to replicate(Installation):
